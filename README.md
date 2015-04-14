@@ -4,6 +4,7 @@ angularjs datepicker module
 Usage:
 
 Add hz-datepicker.js and style.css to your page. Something like:
+
 &lt;script src="js/modules/hz-datepicker.js"&gt;&lt;/script&gt;
 &lt;link href="css/style.css" rel="stylesheet"&gt;
 
